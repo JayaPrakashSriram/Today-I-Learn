@@ -1,1 +1,10 @@
+# Heading,
+(#) for h1
+(##) for h2
 
+# Jump to new line,
+-> In paragraph for next line provide two space at the end of the line.
+
+# Code block:
+-> Surround the code by 3 backtick in starting and ending
+(
