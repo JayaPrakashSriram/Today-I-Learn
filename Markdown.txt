@@ -1,11 +1,32 @@
-# Heading,
-(#) for h1
-(##) for h2
+Heading:
+# for h1
+## for h2
 
-# Jump to new line,
+Jump to new line:
 -> In paragraph for next line provide two space at the end of the line.
 
-# Code block:
+Code block:
 -> Surround the code by 3 backtick in starting and ending.
+```Code Here```
 
-# Link
+Link:
+-> [Link name](Link/Http Address) 
+[Link](http:....com) should be given like this.
+Here the word link will be highlighted.
+
+Italic and Bold:
+-> *Italic*
+-> **Bold**
+-> ***Italic and Bold***
+
+Quote:
+>Quote
+
+Highlight:
+-> Use ` to highlight the word
+The word `need` to be highlighted.
+Here the word need as been highlighted.
+
+Image Link:
+![Image name](imgLink)
+
