@@ -70,49 +70,49 @@
 </form>
 ```
 
-##Few examples of input type,
-###Text Input:
+## Few examples of input type,
+### Text Input:
 ``` <input type="text" name="username" id="username"> ```
 
-###Password Input:
+### Password Input:
 ``` <input type="password" name="password" id="password"> ```
 
-###Checkbox:
+### Checkbox:
 ``` <input type="checkbox" name="subscribe" id="subscribe" value="yes"> ```
 
-###Radio Button:
+### Radio Button:
 ``` <input type="radio" name="gender" id="male" value="male"> ```
 ``` <input type="radio" name="gender" id="female" value="female"> ```
 
-###Number Input:
+### Number Input:
 ``` <input type="number" name="quantity" id="quantity" min="1" max="10"> ```
 
-###Email Input:
+### Email Input:
 ``` <input type="email" name="user_email" id="user_email"> ```
 
-###URL Input:
+### URL Input:
 ``` <input type="url" name="website" id="website"> ```
 
-###Date Input:
+### Date Input:
 ``` <input type="date" name="event_date" id="event_date"> ```
 
-###Time Input:
+### Time Input:
 ``` <input type="time" name="event_time" id="event_time"> ```
 
-###File Input:
+### File Input:
 ``` <input type="file" name="file_upload" id="file_upload"> ```
 
-###Textarea:
+### Textarea:
 ``` <textarea name="comments" id="comments" rows="4" cols="50"></textarea> ```
 
-###Submit Button:
+### Submit Button:
 ``` <input type="submit" value="Submit"> ```
 
-###Reset Button:
+### Reset Button:
 ``` <input type="reset" value="Reset"> ```
 
-###Hidden Input:
+### Hidden Input:
 ``` <input type="hidden" name="hidden_field" value="hidden_value"> ```
 
-          Color Input:
-                    | <input type="color" name="color" id="color">
+### Color Input:
+``` <input type="color" name="color" id="color"> ```
